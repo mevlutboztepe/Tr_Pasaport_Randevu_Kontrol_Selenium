@@ -132,7 +132,7 @@ namespace PassaportServices
             if (emailList.Count != 0)
             {
                 // E-posta gönderimi için gerekli bilgiler
-                string to = "mevlut.boztepe@abdiibrahim.com.tr";
+                string to = "mail gönderilmesi gereken adres";
                 string from = db.mail; // Gönderen e-posta adresi
                 string subject = "Pasaport Randevu";
                 string body = "Merhaba,\n\nAşağıda listelenen İlçelerde müsaitlik vardır:\n\n";
