@@ -1,0 +1,165 @@
+﻿Installing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Uninstalling assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Uninstalling assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Uninstalling assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Uninstalling assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Uninstalling assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Uninstalling assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Uninstalling assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.InstallLog
+   assemblypath = C:\Users\mevlut.boztepe\source\repos\PassaportServices\bin\Debug\PassaportServices.exe
